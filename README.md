@@ -1,4 +1,4 @@
-此Git库为我的博客  [Luke's Homepage](http://geeklu.com)。
+此Git库为我的博客  [Haitao's Homepage](http://geeklu.com)。
 使用Jekyll进行搭建，Jekyll是一个Ruby写的程序，可以将Markdown写的文章通过模板生成最终的Html静态文件。
 博客文章的评论功能使用了Disqus。
 
@@ -6,3 +6,5 @@
 
 最后感谢您的配合。
 //haitao copy 
+这是我自己搭建的一个个人博客,以后会陆续把csdn上的博客搬运过来，
+勉励自己多积淀，多写，多分享。
