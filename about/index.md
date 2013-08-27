@@ -4,10 +4,9 @@ layout: page
 comments: yes
 ---
   
-卢克进, 08年毕业于南京理工大学计算机学院.      
-熟练使用常见的计算机语言.      
-目前从事Mac,iOS开发相关工作.      
+海涛, 2014年毕业于北京邮电大学.      
+熟练使用Linux
+热衷于搜索引擎和算法。
 
-个人邮箱:kejinlu@gmail.com      
-新浪微博: [http://weibo.com/kejinlu](http://weibo.com/kejinlu)      
-github : [https://github.com/kejinlu](https://github.com/kejinlu)      
+个人邮箱:zmc.bupt@gmail.com      
+github : [https://github.com/zmcfei]  
