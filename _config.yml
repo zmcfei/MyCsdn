@@ -1,0 +1,6 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://haitao.com
+author: 海涛
+pygments: true
+paginate: 24
