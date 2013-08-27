@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://haitao.com
+baseurl: ./BlogGit
 author: 海涛
 pygments: true
 paginate: 24
